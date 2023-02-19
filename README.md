@@ -1,11 +1,14 @@
-he/him
+# anekobtw
 
-Russian: C1
+> Automate everything I see\
+> solo developer
 
-English: B2
+**Aneko**, 14 y.o. programmer from Baku, Azerbaijan.
 
-Programming language: Python
+### Languages
+Russian: C1\
+English: A2
 
-Connect with me: [Telegram](https://t.me/anekobtw), Discord: Aneko#6825
-
-Feel free to reach out to me if you have any questions or would like to collaborate on a project.
+### Connect with me
+[Telegram](https://t.me/anekobtw)\
+Discord: Aneko#6825
