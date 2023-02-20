@@ -17,7 +17,7 @@ Here are some of the programs I use on a daily basis for my work and personal pr
 **Browser:** <img src="https://sparkcdneus2.azureedge.net/sparkimageassets/XPDBZ4MPRKNN30-23547f88-151e-4a3c-b185-100552ef24bd" height="20" width="20"> Opera GX\
 **Music Listening:** <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" height="20" width="20"> Spotify\
 **Text Editors:** Microsoft word, <img src="https://static.wixstatic.com/media/0fcd80_6e55d4b4992d460a8be9193b183bd448~mv2.gif" height="20" width="20"> Notepads\
-**Screen Recording:** OBS
+**Screen Recording:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png" height="20" width="20"> OBS
 
 ### Best Projects
 [`transparentify`](https://github.com/ssayand/transparentify) - Removes background from an image\
