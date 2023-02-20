@@ -2,22 +2,10 @@
 
 ### **Welcome to my profile!**
 
-**Aneko**, 14 y.o. programmer.
-
-> Automate everything I see\
-> solo self-taught developer
-
 ## <img src="https://media.discordapp.net/attachments/1069864951684018246/1077250457744969806/4533-language.png" height="20" width="20"> **·** Languages
 <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f1f7-1f1fa.png" height="20" width="20"> Russian (Native Speaker)\
 <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f1ec-1f1e7.png" height="20" width="20"> English (Pre-Intermediate)\
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/python.png" height="20" width="20"> Python
-
-## <img src="https://media.discordapp.net/attachments/1069864951684018246/1077251725196546189/1520-blurple-settings.png" height="20" width="20"> **·** Programs I use for programming
-Here are some of the programs I use on a daily basis for my work and personal projects:
-
-**IDE:** <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/vscode.png" height="20" width="20"> Visual Studio Code\
-**GitHub:** <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/github.png" height="20" width="20"> GitHub Desktop\
-**Browser:** <img src="https://sparkcdneus2.azureedge.net/sparkimageassets/XPDBZ4MPRKNN30-23547f88-151e-4a3c-b185-100552ef24bd" height="20" width="20"> Opera GX
 
 ## <img src="https://media.discordapp.net/attachments/1069864951684018246/1077253413999480923/8319-folder.png" height="20" width="20"> **·** Best Projects
 [`transparentify`](https://github.com/ssayand/transparentify) - Removes background from an image\
