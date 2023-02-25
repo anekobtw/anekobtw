@@ -5,7 +5,7 @@
 
 ## <img src="https://media.discordapp.net/attachments/1069864951684018246/1077253413999480923/8319-folder.png" height="20" width="20"> Best Projects
 [`transparentify`](https://github.com/ssayand/transparentify) - Removes background from an image\
-[`youtube video cutter`](https://github.com/ssayand/youtube-video-cutter) - This is a Python script that allows you to download a YouTube video, cut a segment from it, and then combine the segment with the audio to create a new video file.
+[`youtube clip maker`](https://github.com/ssayand/youtube-video-cutter) - This is a Python script that allows you to download a YouTube video, cut a segment from it, and then combine the segment with the audio to create a new video file.
 
 ## <img src="https://media.discordapp.net/attachments/1069864951684018246/1077252157142736916/8512-blurple-link.png" height="20" width="20"> Connect with me
 You can find me on the following platforms:\
