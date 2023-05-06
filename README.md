@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-japan-tourism-pink-hand-painted-image_13888.jpg"   width="900" height="450">
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-japan-tourism-pink-hand-painted-image_13888.jpg"   width="720" height="360">
 </div>
 
 
