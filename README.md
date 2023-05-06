@@ -13,5 +13,5 @@ Making stunning apps
 
 ## Connect with me
 You can find me on the following platforms:\
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="20" width="20"> Telegram:](https://t.me/anekobtw) `@anekobtw`\
-<img src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" height="20" width="20"> Discord: `Aneko#6825`
+[Telegram:](https://t.me/anekobtw) `@anekobtw`\
+Discord: `Aneko#6825`
