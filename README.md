@@ -12,6 +12,6 @@ Making stunning apps
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png" height="20" width="20"> Java
 
 ## Connect with me
-You can find me on the following platforms:\
+**You can find me on the following platforms:**\
 [Telegram:](https://t.me/anekobtw) `@anekobtw`\
 Discord: `Aneko#6825`
