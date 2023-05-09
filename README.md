@@ -3,12 +3,6 @@
   <img src="https://media1.giphy.com/media/osCeky2uQ7Wd9gz24H/giphy.gif?cid=ecf05e47twdvms5idicqbgn3qj46ognt9xz1gsc22d5h8xpw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30">
 </div>
 
-<div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-japan-tourism-pink-hand-painted-image_13888.jpg"   width="720" height="360">
-</div>
-
-
-
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
