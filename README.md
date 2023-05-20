@@ -13,6 +13,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30" height="33.15"></img>
   <!-- C++ -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="33.7"></img>
+  <!-- TypeScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width='30' height='30'></img>
 </div>
 
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
