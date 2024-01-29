@@ -5,7 +5,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/@anekobtw__-blue?logo=discord&logoColor=white&style=for-the-badge"/>
   <a href="https://t.me/anekobtw">
     <img src="https://img.shields.io/badge/-%40anekobtw-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
