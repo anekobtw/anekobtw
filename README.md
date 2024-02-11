@@ -1,6 +1,4 @@
 # `anekobtw`
-Hey! I love programming and sometimes upload projects on my github. Don't blame me if you find shitty code pls.
-
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
