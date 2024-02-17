@@ -6,10 +6,10 @@
 ### **YouTube:**
 `https://www.youtube.com/@gd-clips`
 
-<img src="https://img.shields.io/badge/Subscribers-3.55k-red"> <img src="https://img.shields.io/badge/Views-820k-yellow">
+<img src="https://img.shields.io/badge/Subscribers-3.56k-red"> <img src="https://img.shields.io/badge/Views-820k-yellow">
 
 ### **Telegram:**
-`https://t.me/anekobtw`
+`https://t.me/anekobtww`
 
 <img src="https://img.shields.io/badge/Subscribers-27-red">
 
