@@ -6,7 +6,7 @@
 ### **YouTube:**
 `https://www.youtube.com/@gd-clips`
 
-<img src="https://img.shields.io/badge/Subscribers-3.57k-red"> <img src="https://img.shields.io/badge/Views-830k-yellow">
+<img src="https://img.shields.io/badge/Subscribers-3.58k-red"> <img src="https://img.shields.io/badge/Views-840k-yellow">
 
 ### **Telegram:**
 `https://t.me/anekobtww`
