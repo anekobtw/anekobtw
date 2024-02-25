@@ -1,18 +1,9 @@
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=dracula&hide_border=false)<br/>
 
-## Other social medias
-### **YouTube:**
-`https://www.youtube.com/@gd-clips`
-
-<img src="https://img.shields.io/badge/Subscribers-3.58k-red"> <img src="https://img.shields.io/badge/Views-840k-yellow">
-
-### **Telegram:**
-`https://t.me/anekobtww`
-
-<img src="https://img.shields.io/badge/Subscribers-27-red">
-
-
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
 
 > // anekobtw
