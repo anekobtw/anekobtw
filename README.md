@@ -5,4 +5,5 @@
 
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
 
+> KISS - Keep it simple, stupid
 > // anekobtw
