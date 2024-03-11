@@ -5,10 +5,8 @@
 
 ## 📜 My VSCode Settings
 ```python
-class MySettings(VSCode.Settings):
+class MySettings():
     def __init__(self):
-        super().__init__()
-
         self.theme = "Tokyo Night" + "Doki Theme (Kanna's wallpaper)"
         self.font = "JetBrains Mono"
         self.icons = "vscode-icons"
