@@ -1,7 +1,7 @@
 ## Stats
-[![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=dracula&hide_border=false)<br/>
+[![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=dark&hide_border=false)<br/>
 
 ## My VSCode Settings
 📕 **Theme:** Tokyo Night + Doki Theme (Kanna's wallpaper)\
