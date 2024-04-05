@@ -9,7 +9,7 @@ im open to collabs
 ```python
 class MySettings():
     def __init__(self):
-        self.theme = "Tokyo Night" + "Doki Theme (Kanna's wallpaper)"
+        self.theme = "Soft Grey Theme" + "Doki Theme (Kanna's wallpaper)"
         self.font = "JetBrains Mono"
         self.icons = "vscode-icons"
         self.extensions = [
@@ -19,8 +19,8 @@ class MySettings():
             "Discord Presence",
             "Image Preview",
             "SQLite Viewer",
-            "Code Spell Checker",
-            "Tabnine AI"
+            "Tabnine AI",
+            "VS Code Counter"
             ]
 ```
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
