@@ -13,14 +13,14 @@ class MySettings():
         self.font = "JetBrains Mono"
         self.icons = "vscode-icons"
         self.extensions = [
-            "Bracket Pair Color",
-            "CodeSnap",
-            "Color Highlight",
-            "Discord Presence",
-            "Image Preview",
-            "SQLite Viewer",
-            "Tabnine AI",
-            "VS Code Counter"
+                "Bracket Pair Color",
+                "CodeSnap",
+                "Color Highlight",
+                "Discord Presence",
+                "Image Preview",
+                "SQLite Viewer",
+                "Tabnine AI",
+                "VS Code Counter"
             ]
 ```
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
