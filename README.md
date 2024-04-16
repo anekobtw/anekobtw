@@ -1,9 +1,9 @@
 im open to collabs
 
-## 🤍 Stats
-[![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=dark&hide_border=false)<br/>
+## Stats
+[![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=onedark&hide_border=false)<br/>
 
 ## 📜 My VSCode Settings
 ```python
