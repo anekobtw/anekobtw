@@ -1,4 +1,4 @@
-im open to collabs
+python dev, life enjoyer
 
 ## Stats
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
