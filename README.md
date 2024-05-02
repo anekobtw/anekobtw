@@ -5,7 +5,7 @@ python dev, life enjoyer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anekobtw&theme=onedark&hide_border=false)<br/>
 
-## 📜 My VSCode Settings
+## My VSCode Settings (yes, I do use vscode)
 ```python
 class MySettings():
     def __init__(self):
