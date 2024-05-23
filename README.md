@@ -25,13 +25,19 @@ class MySettings():
 ```
 
 # Socials
-leetcode - [@anekobtw](https://leetcode.com/u/anekobtw/)\
-chess - [@not_anekobtw](https://www.chess.com/member/not_anekobtw)\
+### IT
+github - [@anekobtw](https://github.com/anekobtw)\
+leetcode - [@anekobtw](https://leetcode.com/u/anekobtw/)
+
+### Social media
 youtube - [@gd-clips](https://www.youtube.com/@gd-clips)\
 telegram - [@anekobtw](https://t.me/anekobtw)\
 discord - @anekobtw_ or anekobtw#6825\
+instagram - [@anekobtw](https://www.instagram.com/anekobtw/)
+
+### Other
+chess - [@not_anekobtw](https://www.chess.com/member/not_anekobtw)\
 spotify - [@anekobtw](https://open.spotify.com/user/apgt0zpaqw45abvxis6157c2n)
-github - [@anekobtw](https://github.com/anekobtw)
 
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
 
