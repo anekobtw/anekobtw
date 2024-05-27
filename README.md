@@ -1,5 +1,3 @@
-python dev, life enjoyer
-
 ## Stats
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekobtw&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,20 +22,7 @@ class MySettings():
             ]
 ```
 
-# Socials
-### IT
-github - [@anekobtw](https://github.com/anekobtw)\
-leetcode - [@anekobtw](https://leetcode.com/u/anekobtw/)
-
-### Social media
-youtube - [@gd-clips](https://www.youtube.com/@gd-clips)\
-telegram - [@anekobtw](https://t.me/anekobtw)\
-discord - @anekobtw_ or anekobtw#6825\
-instagram - [@anekobtw](https://www.instagram.com/anekobtw/)
-
-### Other
-chess - [@not_anekobtw](https://www.chess.com/member/not_anekobtw)\
-spotify - [@anekobtw](https://open.spotify.com/user/apgt0zpaqw45abvxis6157c2n)
+Other social medias - https://linktr.ee/anekobtw
 
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
 
