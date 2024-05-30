@@ -6,7 +6,7 @@
 ```python
 class MySettings():
     def __init__(self):
-        self.theme = "Soft Grey Theme" + "Doki Theme (Kanna's wallpaper)"
+        self.theme = "tokyo-night" + "Doki Theme (Kanna's wallpaper)"
         self.font = "JetBrains Mono"
         self.icons = "vscode-icons"
         self.extensions = [
