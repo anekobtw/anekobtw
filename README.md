@@ -1,8 +1,13 @@
 ## Stats
+<div align="center">
+    
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=tokyonight&hide=commits&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anekobtw&theme=tokyonight&card_width=430&card_height=170)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anekobtw&theme=tokyonight&card_width=430&card_height=170)](https://git.io/streak-stats)
+    
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
+    
+</div>
 
 ## My VSCode Settings (yes, I do use vscode)
 ```python
