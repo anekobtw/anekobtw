@@ -2,6 +2,8 @@
 [![anekobtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anekobtw&show_icons=true&theme=tokyonight&hide=commits&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anekobtw&theme=tokyonight&card_width=430&card_height=170)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
+
 ## My VSCode Settings (yes, I do use vscode)
 ```python
 class MySettings():
@@ -13,7 +15,6 @@ class MySettings():
                 "Bracket Pair Color",
                 "CodeSnap",
                 "Color Highlight",
-                "Discord Presence",
                 "Image Preview",
                 "SQLite Viewer",
                 "Tabnine AI",
@@ -23,6 +24,5 @@ class MySettings():
 
 Other social medias - https://linktr.ee/anekobtw
 
-![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
 
 > // anekobtw
