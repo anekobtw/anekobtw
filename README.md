@@ -25,7 +25,4 @@ class MySettings():
             ]
 ```
 
-Other social medias - https://linktr.ee/anekobtw
-
-
 > // anekobtw
