@@ -1,6 +1,8 @@
 ## Stats
 <div align="center">
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/903322310604386305)](https://discord.com/users/903322310604386305)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anekobtw&theme=tokyonight&card_width=430&card_height=170)](https://git.io/streak-stats)
     
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
