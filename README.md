@@ -5,6 +5,10 @@
     
 </div>
 
+## Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50 />
+
+
 ## My VSCode Settings
 ```python
 class MySettings():
