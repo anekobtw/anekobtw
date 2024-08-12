@@ -1,9 +1,9 @@
 ## Stats
 <div align="center">
 
-<img src="https://lanyard.kyrie25.me/api/903322310604386305?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anekobtw&theme=tokyonight&card_width=430&card_height=170)](https://git.io/streak-stats)
+
+<img src="https://lanyard.kyrie25.me/api/903322310604386305?useDisplayName=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
     
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
     
