@@ -10,7 +10,7 @@ My mother tongue is Russian, but I can speak English as well.
 ### Bots
 - [@anon_whisper_bot](https://github.com/anekobtw/anon_whisper_bot) - A telegram bot for sending anonymous messages in Telegram.
 - [@mind_mastery_bot](https://github.com/anekobtw/mind-mastery) - A telegram bot with many tools that will help study.
-- [@free_yt_dl_bot](https://github.com/anekobtw/youtube-dl-bot) - A telegram bot for downloading YouTube videos.
+- [@free_yt_dl_bot](https://github.com/anekobtw/youtube-dl-bot) - A telegram bot for downloading YouTube music.
 - [@tasks_manager_bot](https://github.com/anekobtw/tasks_manager_bot) - A discord To-Do bot.
 
 ### Software
