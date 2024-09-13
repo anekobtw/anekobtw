@@ -20,6 +20,8 @@ My mother tongue is Russian, but I can speak English as well.
 - [YouTube thumbanail saver](https://github.com/anekobtw/youtube-thumbnail-saver) - Quick YouTube thumbnails downloader.
 - [Images downloader](https://github.com/anekobtw/images-downloader) - Quickly download images from Bing and Google based on a query.
 
+### Geometry Dash mods
+- [attempts-limiter](https://github.com/anekobtw/attempts-limiter) - Limiting the attempts in Geometry Dash.
 ### Frameworks
 - [youthon](https://github.com/anekobtw/youthon) - A lightweight YouTube data scraper.
 
