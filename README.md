@@ -1,5 +1,5 @@
 # `anekobtw`
-16 y.o. programmer, who just loves Python 🤷‍♂️\
+16 y.o. software developer\
 I work mainly on open-source projects.\
 My mother tongue is Russian, but I can speak English as well.
 
