@@ -15,7 +15,6 @@ My mother tongue is Russian, but I can speak English as well.
 
 ### Software
 - [Timewise](https://github.com/anekobtw/timewise) - A timer
-- [clipboard manager](https://github.com/anekobtw/clipboard-manager) - Recreated win+v
 - [YouTube videos maker](https://github.com/anekobtw/yt-videos-maker) - Automatically create videos for YouTube.
 - [YouTube thumbanail saver](https://github.com/anekobtw/youtube-thumbnail-saver) - Quick YouTube thumbnails downloader.
 - [Images downloader](https://github.com/anekobtw/images-downloader) - Quickly download images from Bing and Google based on a query.
