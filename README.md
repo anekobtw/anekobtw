@@ -31,17 +31,19 @@ My mother tongue is Russian, but I can speak English as well.
 ```python
 class MyVSCodeSettings():
     def __init__(self):
-        self.theme = "tokyo-night"
+        self.theme = "Github Theme"
         self.font = "JetBrains Mono"
-        self.icons = "vscode-icons"
+        self.icons = "Material Icon Theme"
         self.extensions = [
-                "Python",
-                "WSL",
-                "Docker",
+                "Blur menu",
+                "Image preview",
+                "Path Intellisense",
                 "CodeSnap",
-                "SQLite Viewer",
-                "Tabnine AI",
-                "VS Code Counter",
+                # Languages
+                "Python",
+                "Oracle SQL Developer Extension for VSCode",
+                "C/C++",
+                "Geode" # for GD modding
             ]
 ```
 
