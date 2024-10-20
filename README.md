@@ -11,18 +11,14 @@ My mother tongue is Russian, but I can speak English as well.
 - [@mind_mastery_bot](https://github.com/anekobtw/mind-mastery) - A telegram bot with many tools that will help study.
 - [@free_yt_dl_bot](https://github.com/anekobtw/youtube-dl-bot) - A telegram bot for downloading YouTube music.
 - [@anon_whisper_bot](https://github.com/anekobtw/anon_whisper_bot) - A telegram bot for sending anonymous messages in Telegram.
-- [@tasks_manager_bot](https://github.com/anekobtw/tasks_manager_bot) - A discord To-Do bot.
 ### Software
 - [YouTube videos maker](https://github.com/anekobtw/yt-videos-maker) - Automatically create videos for YouTube.
 - [YouTube thumbanail saver](https://github.com/anekobtw/youtube-thumbnail-saver) - Quick YouTube thumbnails downloader.
 - [Images downloader](https://github.com/anekobtw/images-downloader) - Quickly download images from Bing and Google based on a query.
-- [Timewise](https://github.com/anekobtw/timewise) - A timer. (probably my worst project)
 ### Geometry Dash mods
 - [attempts-limiter](https://github.com/anekobtw/attempts-limiter) - Limiting the attempts in Geometry Dash.
 ### Frameworks
 - [youthon](https://github.com/anekobtw/youthon) - A lightweight YouTube data scraper.
-### Other
-- [Spotify ad muter](https://github.com/anekobtw/ad-muter-spotify) - A program to mute Spotify ads.
 
 ## `vscode settings`
 ```python
