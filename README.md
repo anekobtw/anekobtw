@@ -34,9 +34,7 @@ class MyVSCodeSettings():
                 "CodeSnap",
                 # Languages
                 "Python",
-                "Oracle SQL Developer Extension for VSCode",
-                "C/C++",
-                "Geode" # for GD modding
+                "Oracle SQL Developer Extension for VSCode"
             ]
 ```
 
