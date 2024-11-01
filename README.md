@@ -20,7 +20,7 @@ Working mainly on open-source projects.\
 - [youthon](https://github.com/anekobtw/youthon) - A lightweight YouTube data scraper.
 
 ## `sublime text 3 settings`
-```
+```json
 {
 	// UI
 	"theme": "One Dark.sublime-theme",
