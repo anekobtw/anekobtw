@@ -10,7 +10,7 @@ Working mainly on open-source projects.
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,bots,docker,git,github,md)](https://skillicons.dev)
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=windows,sublime,vscode,stackoverflow,discord,replit,obsidian,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,sublime,vscode,stackoverflow,replit,obsidian,bash)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=2d6ecf&style=flat)
