@@ -3,9 +3,11 @@
 [![Telegram](https://img.shields.io/badge/-anekobtw-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/anekobtw)
 
 ## `tech`
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,dart,flutter,md,fastapi,sqlite,git)](https://skillicons.dev)
-### Software
+### Programming languages
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,dart)](https://skillicons.dev)
+### Frameworks / Tools
+[![My Skills](https://skillicons.dev/icons?i=fastapi,redis,flutter,sqlite,git,md)](https://skillicons.dev)
+### Environment
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,neovim,powershell,github)](https://skillicons.dev)
 
 ## `stats`
