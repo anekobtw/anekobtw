@@ -5,9 +5,9 @@
 
 | Category                  | Skills / Tools                                                                 |
 |---------------------------|-------------------------------------------------------------------------------|
-| **Programming Languages** | [![My Skills](https://skillicons.dev/icons?i=py,cpp,dart)](https://skillicons.dev) |
-| **Frameworks / Tools**    | [![My Skills](https://skillicons.dev/icons?i=fastapi,redis,flutter,sqlite,git,md)](https://skillicons.dev) |
-| **Environment**           | [![My Skills](https://skillicons.dev/icons?i=windows,linux,neovim,powershell,github)](https://skillicons.dev) |
+| **Programming Languages** | [![My Skills](https://skillicons.dev/icons?i=py,typescript,cpp,dart)](https://skillicons.dev) |
+| **Frameworks / Tools**    | [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,fastapi,flutter,sqlite,git)](https://skillicons.dev) |
+| **Environment**           | [![My Skills](https://skillicons.dev/icons?i=arch,neovim,bash,github)](https://skillicons.dev) |
 
 ## `stats`
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anekobtw?theme=catppuccinMocha&font=Fredoka)
