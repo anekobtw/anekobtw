@@ -12,6 +12,4 @@
 ## `stats`
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anekobtw?theme=catppuccinMocha&font=Fredoka)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anekobtw&theme=discord&margin-w=10&margin-h=10&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
 > // anekobtw
