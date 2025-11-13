@@ -1,6 +1,5 @@
 # `anekobtw`
 ![](https://komarev.com/ghpvc/?username=anekobtw&label=Profile%20views&color=000000&style=flat&abbreviated=true)
-[![GitHub](https://img.shields.io/badge/-anekobtw-black?labelColor=black&logo=github&logoColor=white&style=flat-square)](https://github.com/anekobtw/)
 [![Telegram](https://img.shields.io/badge/-anekobtw-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/anekobtw)
 
 | Category                  | Skills / Tools                                                                 |
