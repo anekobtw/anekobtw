@@ -4,7 +4,7 @@
 
 | Category                  | Skills / Tools                                                                 |
 |---------------------------|-------------------------------------------------------------------------------|
-| **Programming Languages** | [![My Skills](https://skillicons.dev/icons?i=py,typescript,cpp,dart)](https://skillicons.dev) |
+| **Programming Languages** | [![My Skills](https://skillicons.dev/icons?i=py,javascript,typescript,cpp,dart)](https://skillicons.dev) |
 | **Frameworks / Tools**    | [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,fastapi,flutter,sqlite,git)](https://skillicons.dev) |
 | **Environment**           | [![My Skills](https://skillicons.dev/icons?i=arch,neovim,bash,github)](https://skillicons.dev) |
 
