@@ -18,7 +18,10 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" />
+  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-1AD1A5?logo=daisyui&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img alt="Aiogram" src="https://img.shields.io/badge/AIOgram-2CA5E0?logo=telegram&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
 </p>
 
 ### Operating Systems & Tools
