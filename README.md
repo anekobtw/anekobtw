@@ -33,8 +33,3 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 </p>
-
-## `leetcode`
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/anekobtw?theme=catppuccinMocha&font=Fredoka"/>
-</div>
