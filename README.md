@@ -7,6 +7,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
 </p>
 
@@ -14,6 +15,7 @@
 <p align="center">
   <img alt="Bun" src="https://img.shields.io/badge/Bun-FF2D55?logo=bun&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
@@ -21,6 +23,7 @@
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-1AD1A5?logo=daisyui&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
   <img alt="PostHog" src="https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
   <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white" />
 </p>
